@@ -1,0 +1,185 @@
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\FullCorp.exe
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\FullCorp.deps.json
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\FullCorp.runtimeconfig.json
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\FullCorp.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\FullCorp.pdb
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.csproj.AssemblyReference.cache
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.AssemblyInfoInputs.cache
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.AssemblyInfo.cs
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.csproj.CoreCompileInputs.cache
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\scopedcss\bundle\FullCorp.styles.css
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.csproj.CopyComplete
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\refint\FullCorp.dll
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.pdb
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\FullCorp.genruntimeconfig.cache
+C:\Users\Linton\source\repos\FullCorp\FullCorp\obj\Debug\net6.0\ref\FullCorp.dll
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.AssemblyInfo.cs
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.dll
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\refint\FullCorp.dll
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.pdb
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\FullCorp.exe
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\FullCorp.deps.json
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\FullCorp.runtimeconfig.json
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\FullCorp.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\FullCorp.pdb
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\Desktop\rame\FullCorp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\scopedcss\bundle\FullCorp.styles.css
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.csproj.CopyComplete
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\FullCorp.genruntimeconfig.cache
+C:\Users\Linton\Desktop\rame\FullCorp\obj\Debug\net6.0\ref\FullCorp.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.exe
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.deps.json
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.runtimeconfig.json
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.pdb
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.AssemblyInfo.cs
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\scopedcss\bundle\FullCorp.styles.css
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.csproj.CopyComplete
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\refint\FullCorp.dll
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.pdb
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.genruntimeconfig.cache
+C:\Users\Linton\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\ref\FullCorp.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\appsettings.json
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.exe
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.deps.json
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.runtimeconfig.json
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\FullCorp.pdb
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.csproj.AssemblyReference.cache
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.AssemblyInfoInputs.cache
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.AssemblyInfo.cs
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.csproj.CoreCompileInputs.cache
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\scopedcss\bundle\FullCorp.styles.css
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.csproj.CopyComplete
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\refint\FullCorp.dll
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.pdb
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\FullCorp.genruntimeconfig.cache
+C:\Users\E P A M\Desktop\FullCorp.BE\FullCorp\obj\Debug\net6.0\ref\FullCorp.dll
